@@ -46,13 +46,23 @@ Filter by Genre: Select a genre from the filter options to narrow down the book 
 View Book Details: Click on a book to view its full details, including description, author, and rating.
 
 
-Example
+## Example
+
 Book List: A grid or list view of books, each showing basic details such as title, author, and genre.
+
 Search Functionality: Users can search for books by title or author.
+
 Filter by Genre: Allows users to select genres like Fiction, Non-fiction, Fantasy, etc., to filter the book list.
+
 Book Details Page: Displays detailed information about the selected book.
-Dependencies
+
+## Dependencies
+
 React: Frontend framework for building the UI.
+
 Axios or Fetch API: For making API requests to fetch book data.
+
+
 React Router: For routing between different pages (e.g., home, book details).
+
 CSS or Styled Components: For styling the layout and components.
